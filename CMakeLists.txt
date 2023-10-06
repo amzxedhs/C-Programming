@@ -3,5 +3,4 @@ project(C_Programming C)
 
 set(CMAKE_C_STANDARD 23)
 
-add_executable(C_Programming
-        amzy.c)
+add_executable(C_Programming amzy12.c)
