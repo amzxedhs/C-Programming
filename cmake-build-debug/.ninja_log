@@ -1,6 +1,6 @@
 # ninja log v5
-267	621	7183174781777376	C_Programming.exe	c53346b2ed7434ac
+0	348	7183788843077113	build.ninja	7eb65732d9d91427
 4	266	7183174778255313	CMakeFiles/C_Programming.dir/amzy.c.obj	f18b21860ff7e394
-0	238	7183175509249392	build.ninja	7eb65732d9d91427
+90	260	7183787704641328	C_Programming.exe	5d613de3fa4b2ab3
 1	124	7183175512184554	CMakeFiles/C_Programming.dir/amzy12.c.obj	42bdb8ec7ce29e1a
-124	239	7183175513284438	C_Programming.exe	9d200237d6ea3d
+2	90	7183787702970022	CMakeFiles/C_Programming.dir/amzy13.c.obj	2be1fde88f48dd6a
