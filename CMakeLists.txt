@@ -7,4 +7,6 @@ add_executable(C_Programming
 
 
 
-        amzy16.c)
+
+
+        amzy18.c)
